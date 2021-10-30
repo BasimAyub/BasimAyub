@@ -2,6 +2,8 @@
 
 hi, i'm Basim Ayub, a passionate self-taught full stack web developer and a freelance software engineer from Pakistan. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
+Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 <!--
 **BasimAyub/BasimAyub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
